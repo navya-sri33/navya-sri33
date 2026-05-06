@@ -1,0 +1,25 @@
+Name : Navya Sri Koruprolu
+Role : Full Stack Developer
+Platform : Shopware 6
+Industry : Retail (B2C & B2B)
+
+Project summary
+I worked as a Full Stack Developer on a large-scale retail e-commerce platform built on Shopware 6. The goal was to create a scalable, high-performance online store capable of handling complex retail operations including multi-store management, ERP integration, advanced pricing structures, and high seasonal traffic.
+One key project I worked on involved developing a customer-facing dashboard and the  E-commerce platform designed to provide users with real-time data, personalized insights, and actionable information through an intuitive interface. The goal was to enhance the customer experience by enabling easy access to key metrics, usage history, and service management tools.
+The platform served both B2C and B2B customers and required deep customization of Shopware’s core architecture.Developed and maintained a scalable retail e-commerce platform using Shopware 6 to support both B2C and B2B operations. The system handled product catalog management, customer accounts, order processing, promotions, and third-party integrations within a fast-paced retail environment.
+Key responsibilities
+Development of custom Shopware 6 plugins and extensions
+Backend implementation using PHP (Symfony architecture)
+API integration with ERP, CRM, and payment providers
+Database optimization and performance improvements
+Frontend customization using Twig, SCSS, and JavaScript
+Implementation of customer-specific pricing models
+Multi-language and multi-currency configuration
+GDPR-compliant data handling implementation
+Business Challenges
+Complex retail pricing rules (tier pricing, customer-specific discounts).
+Real-time inventory synchronization with ERP.
+Multi-language & multi-store setup.
+High seasonal traffic peaks.
+Custom promotional campaigns and vouchers.
+Performance optimization for large product catalogs.
